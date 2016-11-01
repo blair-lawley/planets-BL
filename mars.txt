@@ -3,3 +3,6 @@ This is my paper about Mars
 Mars is one of the planets in the Solar System.
 
 The planet is a pretty uniform colour, and a little smaller than Earth.
+
+The place is covered in old 'rovers'.
+
